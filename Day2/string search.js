@@ -25,3 +25,4 @@ console.log(text.endsWith("where"));//from end postion of the string
 //string template
 let word=`the string using backlit,interposion `
 console.log(`This is ${word}`)
+//
